@@ -1,0 +1,29 @@
+#bottle{
+    text-align: center;
+}
+#heading{
+    color:red;
+    line-height: 5px;
+    font-family: 'Verdana';
+    font-size:10px;
+}
+#body{
+    text-align:center;
+}
+#footer{
+    color:black;
+    line-height: 5px;
+    font-size: 15px;
+    text-align: center;
+    bottom:0;
+    position:fixed;
+}
+#head_phones_header{
+    box-shadow:5px 5px 5px grey;
+}
+#shoes_header{
+    box-shadow:5px 5px 5px grey;
+}
+#teddy_bear_header{
+    box-shadow:5px 5px 5px grey;
+}
